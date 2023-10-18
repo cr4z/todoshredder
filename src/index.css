@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("./fonts/Roboto_Flex/RobotoFlex-VariableFont_wght.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/inter/Inter-VariableFont_slnt,wght.ttf") format("truetype");
+}
+
+#root,
+body,
+html {
+  margin: 0;
+}
